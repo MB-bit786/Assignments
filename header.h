@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math.h>
+#include <string.h>
+#include <assert.h>	 
+#include <ctype.h>	
+#include <locale.h>		
+#include <setjmp.h>	
+#include <signal.h>	
+#include <stdarg.h>	
+#include <stdlib.h>		
+#include <time.h>
